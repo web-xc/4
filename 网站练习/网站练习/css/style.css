@@ -22,7 +22,7 @@ a {
     margin-top: 30px;
     margin-left: 30px;
     margin-right: 20px;
-    background: url(images/logo3.png);
+    background: url(..images/logo3.png);
 }
 .header li {
     float: left;
@@ -60,7 +60,7 @@ a {
     height: 40px;
     border: 0;
     margin-top: -40px;
-    background: url(images/btn.png);
+    background: url(..images/btn.png);
 }
 .username {
     float: left;
@@ -75,7 +75,7 @@ a {
 }
 .banner .w {
     height: 420px;
-    background: url(images/banner2.png) no-repeat;
+    background: url(..images/banner2.png) no-repeat;
 }
 .banner-left {
     width: 190px;
@@ -219,10 +219,10 @@ a {
     right: -4px;
     width: 40px;
     height: 24px;
-    background-image: url(images/new.png);
+    background-image: url(..images/new.png);
 }
 .content-two .two {
-    background-image: url(images/hot.png);
+    background-image: url(..images/hot.png);
 }
 .footer {
     height: 260px;
