@@ -78,7 +78,7 @@ li {
     float: left;
     width: 50px;
     height: 40px;
-    background: url(images/btn.png);
+    background: url(../images/btn.png);
     /* 清除边框 */
     border: 0;
     /* 清除轮廓线 */
@@ -98,7 +98,7 @@ li {
 }
 .banner .w {
     height: 420px;
-    background: url(images/banner2.png);
+    background: url(../images/banner2.png);
 }
 .aside {
     float: left;
@@ -238,10 +238,10 @@ li {
     position: absolute;
     top: 5px;
     right: -5px;
-    background: url(images/hot.png);
+    background: url(../images/hot.png);
 }
 .box-bd .two {
-    background: url(images/new.png);
+    background: url(../images/new.png);
 }
 /* 页脚 */
 .footer {
