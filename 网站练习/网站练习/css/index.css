@@ -325,11 +325,11 @@
     float: left;
     width: 228px;
     height: 392px;
-    background: url(../images/left.jpg);
+    background: url(./images/left.jpg);
 }
 
 .sidebar-two {
-    background: url(../images/left.png);
+    background: url(./images/left.png);
 }
 
 .service-content-two .column-three {
@@ -340,11 +340,11 @@
     float: right;
     width: 957px;
     height: 100px;
-    background: url(../images/top.jpg);
+    background: url(./images/top.jpg);
 }
 
 .column-four .ad {
-    background: url(../images/top1.png);
+    background: url(./images/top1.png);
 }
 
 .column-three ul li {
